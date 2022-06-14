@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "id": "a1",
+            "infected": 10,
+            "recovered": 58,
+            "latitude": 41.066666,
+            "pop": 5827000,
+            "longitude": 14.333333,
+            "name": "Compania",
+            "country": "11",
+            "lastUpdated": "2020-03-27T08:16:02.0372",
+            "dead": 83,
+            "sick": 1169
+        },
+        {
+            "id": "a2",
+            "infected": 110,
+            "recovered": 39,
+            "latitude": 20.9517,
+            "pop": 45990000,
+            "longitude": 85.0985,
+            "name": "Odisha",
+            "country": "12",
+            "lastUpdated": "2020-04-27T08:16:02.0372",
+            "dead": 103,
+            "sick": 169
+        },
+        {
+            "id": "a3",
+            "infected": 210,
+            "recovered": 78,
+            "latitude": 19.7515,
+            "pop": 5827090,
+            "longitude": 75.7139,
+            "name": "Maharashtra",
+            "country": "India",
+            "lastUpdated": "2020-05-27T08:16:02.0372",
+            "dead": 203,
+            "sick": 1969
+        },
+        {
+            "id": "a4",
+            "infected": 1210,
+            "recovered": 178,
+            "latitude": 39.7515,
+            "pop": 5827080,
+            "longitude": 75.7139,
+            "name": "Chandigarh",
+            "country": "India",
+            "lastUpdated": "2020-05-27T08:16:02.0372",
+            "dead": 20,
+            "sick": 169
+        }
+    ]
+}
